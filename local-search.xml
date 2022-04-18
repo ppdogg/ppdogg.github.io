@@ -4,11 +4,24 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2022/04/07/hello-world/"/>
-    <url>/2022/04/07/hello-world/</url>
+    <title>go 明星项目</title>
+    <link href="/2022/04/18/go%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/"/>
+    <url>/2022/04/18/go%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h4 id="gorm"><a href="#gorm" class="headerlink" title="gorm"></a>gorm</h4><h4 id="prometheus"><a href="#prometheus" class="headerlink" title="prometheus"></a>prometheus</h4>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Mac 配置</title>
+    <link href="/2022/04/07/mac%E9%85%8D%E7%BD%AE/"/>
+    <url>/2022/04/07/mac%E9%85%8D%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[<h4 id="系统设置"><a href="#系统设置" class="headerlink" title="系统设置"></a>系统设置</h4><ul><li>触摸板：设置-&gt;触控板-&gt;轻点来点按</li><li>滑动方向：设置-&gt;触控板-&gt;滚动缩放-&gt;滚动方向</li><li>程序坞：设置-&gt;程序坞与菜单栏-&gt;放大</li><li>输入法：搜狗输入法</li></ul><h4 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h4><ul><li>IOA</li><li>企业微信&#x2F;微信&#x2F;QQ</li><li>google chrome&#x2F;microsoft edge</li><li>vs code&#x2F;goland</li><li>Typora&#x2F;wps</li><li>microsoft to do</li></ul><h4 id="命令行"><a href="#命令行" class="headerlink" title="命令行"></a>命令行</h4><ul><li>iterm2</li><li>homebrew</li><li><a href="https://www.cnblogs.com/cangqinglang/p/12462272.html">Git 多用户配置</a></li><li>npm&#x2F;tnpm</li><li>docker</li><li>Go + <a href="https://goproxy.woa.com/">go proxy</a></li><li>oh my zsh + <a href="https://github.com/romkatv/powerlevel10k">powerlevel10k</a> + <a href="https://terminalsplash.com/">color theme</a> + <a href="https://www.nerdfonts.com/font-downloads">nerd fonts</a></li></ul>]]></content>
     
     
     
